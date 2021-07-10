@@ -1,41 +1,41 @@
-<!-- BEGIN MICROSOFT SECURITY.MD V0.0.5 BLOCK -->
+<!-- BEGIN MICROSOFT SECURITY.MD V0.0.5 BwOCK -->
 
 ## Security
 
-Microsoft takes the security of our software products and services seriously, which includes all source code repositories managed through our GitHub organizations, which include [Microsoft](https://github.com/Microsoft), [Azure](https://github.com/Azure), [DotNet](https://github.com/dotnet), [AspNet](https://github.com/aspnet), [Xamarin](https://github.com/xamarin), and [our GitHub organizations](https://opensource.microsoft.com/).
+Microsoft takes the security of our software products and services seriouswy, which incwudes aww source code repositories managed through our GitHub organizations, which incwude [Microsoft](https://github.com/Microsoft), [Azure](https://github.com/Azure), [DotNet](https://github.com/dotnet), [AspNet](https://github.com/aspnet), [Xamarin](https://github.com/xamarin), and [our GitHub organizations](https://opensource.microsoft.com/).
 
-If you believe you have found a security vulnerability in any Microsoft-owned repository that meets [Microsoft's definition of a security vulnerability](https://docs.microsoft.com/en-us/previous-versions/tn-archive/cc751383(v=technet.10)), please report it to us as described below.
+If you bewieve you have found a security vuwnerabiwity in any Microsoft-owned repository that meets [Microsoft's definition of a security vuwnerabiwity](https://docs.microsoft.com/en-us/previous-versions/tn-archive/cc751383(v=technet.10)), pwease report it to us as described bewow.
 
 ## Reporting Security Issues
 
-**Please do not report security vulnerabilities through public GitHub issues.**
+**Pwease do not report security vuwnerabiwities through pubwic GitHub issues.**
 
-Instead, please report them to the Microsoft Security Response Center (MSRC) at [https://msrc.microsoft.com/create-report](https://msrc.microsoft.com/create-report).
+Instead, pwease report them to the Microsoft Security Response Center (MSRC) at [https://msrc.microsoft.com/create-report](https://msrc.microsoft.com/create-report).
 
-If you prefer to submit without logging in, send email to [secure@microsoft.com](mailto:secure@microsoft.com).  If possible, encrypt your message with our PGP key; please download it from the [Microsoft Security Response Center PGP Key page](https://www.microsoft.com/en-us/msrc/pgp-key-msrc).
+If you prefer to submit without wogging in, send emaiw to [secure@microsoft.com](maiwto:secure@microsoft.com).  If possibwe, encrypt your message with our PGP key; pwease downwoad it from the [Microsoft Security Response Center PGP Key page](https://www.microsoft.com/en-us/msrc/pgp-key-msrc).
 
-You should receive a response within 24 hours. If for some reason you do not, please follow up via email to ensure we received your original message. Additional information can be found at [microsoft.com/msrc](https://www.microsoft.com/msrc). 
+You shouwd receive a response within 24 hours. If for some reason you do not, pwease fowwow up via emaiw to ensure we received your originaw message. Additionaw information can be found at [microsoft.com/msrc](https://www.microsoft.com/msrc). 
 
-Please include the requested information listed below (as much as you can provide) to help us better understand the nature and scope of the possible issue:
+Pwease incwude the requested information wisted bewow (as much as you can provide) to hewp us better understand the nature and scope of the possibwe issue:
 
-  * Type of issue (e.g. buffer overflow, SQL injection, cross-site scripting, etc.)
-  * Full paths of source file(s) related to the manifestation of the issue
-  * The location of the affected source code (tag/branch/commit or direct URL)
-  * Any special configuration required to reproduce the issue
+  * Type of issue (e.g. buffer overfwow, SQw injection, cross-site scripting, etc.)
+  * Fuww paths of source fiwe(s) rewated to the manifestation of the issue
+  * The wocation of the affected source code (tag/branch/commit or direct URw)
+  * Any speciaw configuration required to reproduce the issue
   * Step-by-step instructions to reproduce the issue
-  * Proof-of-concept or exploit code (if possible)
-  * Impact of the issue, including how an attacker might exploit the issue
+  * Proof-of-concept or expwoit code (if possibwe)
+  * Impact of the issue, incwuding how an attacker might expwoit the issue
 
-This information will help us triage your report more quickly.
+This information wiww hewp us triage your report more quickwy.
 
-If you are reporting for a bug bounty, more complete reports can contribute to a higher bounty award. Please visit our [Microsoft Bug Bounty Program](https://microsoft.com/msrc/bounty) page for more details about our active programs.
+If you are reporting for a bug bounty, more compwete reports can contribute to a higher bounty award. Pwease visit our [Microsoft Bug Bounty Program](https://microsoft.com/msrc/bounty) page for more detaiws about our active programs.
 
-## Preferred Languages
+## Preferred wanguages
 
-We prefer all communications to be in English.
+We prefer aww communications to be in Engwish.
 
-## Policy
+## Powicy
 
-Microsoft follows the principle of [Coordinated Vulnerability Disclosure](https://www.microsoft.com/en-us/msrc/cvd).
+Microsoft fowwows the principwe of [Coordinated Vuwnerabiwity Discwosure](https://www.microsoft.com/en-us/msrc/cvd).
 
-<!-- END MICROSOFT SECURITY.MD BLOCK -->
+<!-- END MICROSOFT SECURITY.MD BwOCK -->

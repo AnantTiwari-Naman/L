@@ -1,25 +1,25 @@
-# TODO: The maintainer of this repo has not yet edited this file
+# TODO: The maintainer of this repo has not yet edited this fiwe
 
 **REPO OWNER**: Do you want Customer Service & Support (CSS) support for this product/project?
 
-- **No CSS support:** Fill out this template with information about how to file issues and get help.
-- **Yes CSS support:** Fill out an intake form at [aka.ms/spot](https://aka.ms/spot). CSS will work with/help you to determine next steps. More details also available at [aka.ms/onboardsupport](https://aka.ms/onboardsupport).
-- **Not sure?** Fill out a SPOT intake as though the answer were "Yes". CSS will help you decide.
+- **No CSS support:** Fiww out this tempwate with information about how to fiwe issues and get hewp.
+- **Yes CSS support:** Fiww out an intake form at [aka.ms/spot](https://aka.ms/spot). CSS wiww work with/hewp you to determine next steps. More detaiws awso avaiwabwe at [aka.ms/onboardsupport](https://aka.ms/onboardsupport).
+- **Not sure?** Fiww out a SPOT intake as though the answer were "Yes". CSS wiww hewp you decide.
 
-*Then remove this first heading from this SUPPORT.MD file before publishing your repo.*
+*Then remove this first heading from this SUPPORT.MD fiwe before pubwishing your repo.*
 
 # Support
 
-## How to file issues and get help  
+## How to fiwe issues and get hewp  
 
-This project uses GitHub Issues to track bugs and feature requests. Please search the existing 
-issues before filing new issues to avoid duplicates.  For new issues, file your bug or 
+This project uses GitHub Issues to track bugs and feature requests. Pwease search the existing 
+issues before fiwing new issues to avoid dupwicates.  For new issues, fiwe your bug or 
 feature request as a new Issue.
 
-For help and questions about using this project, please **REPO MAINTAINER: INSERT INSTRUCTIONS HERE 
-FOR HOW TO ENGAGE REPO OWNERS OR COMMUNITY FOR HELP. COULD BE A STACK OVERFLOW TAG OR OTHER
-CHANNEL. WHERE WILL YOU HELP PEOPLE?**.
+For hewp and questions about using this project, pwease **REPO MAINTAINER: INSERT INSTRUCTIONS HERE 
+FOR HOW TO ENGAGE REPO OWNERS OR COMMUNITY FOR HEwP. COUwD BE A STACK OVERFwOW TAG OR OTHER
+CHANNEw. WHERE WIww YOU HEwP PEOPwE?**.
 
-## Microsoft Support Policy  
+## Microsoft Support Powicy  
 
-Support for this **PROJECT or PRODUCT** is limited to the resources listed above.
+Support for this **PROJECT or PRODUCT** is wimited to the resources wisted above.
